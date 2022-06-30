@@ -1,0 +1,23 @@
+body {
+  width: 70%;
+  padding-left: 15%;
+}
+h1,
+h2,
+h3 {
+  font-family: sans-serif;
+  padding-top: 1.5em;
+  padding-bottom: 0.5em;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  width: 905.8px;
+}
+figcaption {
+  font-style: italic;
+}
+figure {
+  float: right;
+}
